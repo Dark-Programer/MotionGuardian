@@ -63,9 +63,11 @@
 <h2>Screenshots</h2>
     <p>Below are some screenshots of the terminal output and the motion detection system in action:</p>
     <div>
-        <img src="screenshots/screenshot1.png" alt="Screenshot 1" width="600">
-        <img src="screenshots/screenshot2.png" alt="Screenshot 2" width="600">
-    </div>
+        <img src="screenshots/screenshot1.png" alt="Screenshot 1">
+        <img src="screenshots/screenshot2.png" alt="Screenshot 2">
+        <img src="screenshots/screenshot3.png" alt="Screenshot 3">
+
+</div>
 
 <h2>Acknowledgments</h2>
     <p>
